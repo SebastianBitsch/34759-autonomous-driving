@@ -1,3 +1,6 @@
-data/
 .venv
 .env
+data/raw/*
+data/rect/*
+!data/rect/.gitkeep 
+!data/raw/.gitkeep 
