@@ -4,3 +4,4 @@ data/raw/*
 data/rect/*
 !data/rect/.gitkeep 
 !data/raw/.gitkeep 
+/data/kitti
